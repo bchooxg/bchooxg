@@ -1,5 +1,5 @@
 ### Hi I'm Bryan
-- 🔭 I’m currently working as a Software Developer
+- 🔭 I’m currently working as a Software Developer ( Java/ HTML/ CSS/ JS ) 
 - 🌱 I’m currently learning Javascript ( React/ Next.js ) 
 
 
